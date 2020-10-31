@@ -1,6 +1,6 @@
 # Fotogrametría con Open Source y Software Libre 
 
-<p>
+<p align= "center">
  <a href="https://www.linkedin.com/in/antonybarja/">
   <img src="https://img.shields.io/badge/Autor-Antony%20Barja-lightgrey?style=for-the-badge" height="23">
   </a>
