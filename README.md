@@ -16,10 +16,6 @@
   </a>
 </p>
 
-## Introducción
-## Requesitos: 
-## Materiales 
-
 
 
 
