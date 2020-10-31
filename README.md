@@ -16,13 +16,18 @@
   </a>
 </p>
 
- 
+## Introducción
+## Requesitos: 
+## Materiales 
+
+
+
+
 <p align="center">
  <a> 
  <img src='https://raw.githubusercontent.com/barja8/Workshop-ODM-IGB16/main/resources/slide.png' width=400> 
  </a>
 </p>
-
 
 
 
