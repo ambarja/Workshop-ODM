@@ -12,12 +12,9 @@
   </a>
   <a>
   <a href="https://github.com/qgispe">
-  <img src="https://img.shields.io/github/stars/barja8/CovidMapping_by_Province?style=for-the-badge" height="23.5">
+  <img src="https://img.shields.io/github/stars/barja8/Workshop-ODM-IGB16?style=for-the-badge" height="23.5">
   </a>
 </p>
-
-
-
 
 <p align="center">
  <a> 
@@ -25,7 +22,7 @@
  </a>
 </p>
 
-
-
-
+<p align = 'center'>
+<img src= 'https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png' href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/'  height='25'>
+</p>
 
